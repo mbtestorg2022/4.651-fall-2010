@@ -29,11 +29,48 @@ Grading
 
 Grades will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm (including paper) | 20% |
-| Final research paper | 30% |
-| Final exam | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm (including paper)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final research paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Good attendance and participation in class (particularly in the end of term debate) will bring extra credit to your final grade. You need to do work in each of the graded areas to pass this course, but we hope and anticipate that you'll be in touch with us if problems develop for you along the way.
 
